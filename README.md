@@ -6,7 +6,7 @@ This public repository is a showcase page only.
 
 ## Live Project
 
-- Website: https://quick-send.vercel.app
+- Website: https://quick-send-me.vercel.app/
 
 ## Product Highlights
 
@@ -27,9 +27,7 @@ Add your screenshots inside an `images/` folder in this public repo and keep the
 
 ## Demo Links
 
-- Live Website: https://quick-send.vercel.app
-- Product Walkthrough Video: https://www.youtube.com/
-- LinkedIn Project Post: https://www.linkedin.com/
+- Live Website: https://quick-send-me.vercel.app/
 
 ## About This Public Repo
 
