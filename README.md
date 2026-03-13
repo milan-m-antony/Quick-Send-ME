@@ -29,8 +29,6 @@ Add your screenshots inside an `images/` folder in this public repo and keep the
 ## Demo Links
 
 - Live Website: https://quick-send.vercel.app
-- Product Walkthrough Video: https://www.youtube.com/
-- LinkedIn Project Post: https://www.linkedin.com/
 
 ## About This Public Repo
 
